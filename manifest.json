@@ -1,6 +1,7 @@
 {
   "short_name": "InteractiveLearner",
   "name": "Interactive Learner - Learn GIS!",
+  "description": "A place to interactively learn about common concepts in geographic information systems / science.",
   "icons": [
     {
       "src": "favicon.ico",
