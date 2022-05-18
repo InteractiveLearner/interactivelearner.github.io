@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bb579ff3.css",
-    "main.js": "/static/js/main.7c0a1f7b.js",
+    "main.js": "/static/js/main.674c5ccd.js",
     "static/media/scale.png": "/static/media/scale.8870693c7cc3880fd2fc.png",
     "static/media/projection_surfaces.png": "/static/media/projection_surfaces.c26a291deb7b843413bc.png",
     "static/media/typesofmaps.png": "/static/media/typesofmaps.9518742cb6e1b6444eaf.png",
@@ -15,17 +15,17 @@
     "static/media/icon.png": "/static/media/icon.bc94a7315373e125592f.png",
     "static/media/hospital.png": "/static/media/hospital.4b7458d4faa2bf62ce38.png",
     "static/media/marks.png": "/static/media/marks.5239b4f80375e778ef44.png",
-    "static/media/Contribute.md": "/static/media/Contribute.97f7aa0ba0bce0e4cf00.md",
+    "static/media/Contribute.md": "/static/media/Contribute.3e8bca4562e076effbbd.md",
     "static/media/VisualEncoding.md": "/static/media/VisualEncoding.2695711766de5566bba3.md",
     "static/media/MapTypes.md": "/static/media/MapTypes.ffe634f7923e9d805e2d.md",
     "static/media/Projections.md": "/static/media/Projections.4cd44b38c9b49258c287.md",
     "index.html": "/index.html",
     "static/media/Scale.md": "/static/media/Scale.37b653cb7326db1309d2.md",
     "main.bb579ff3.css.map": "/static/css/main.bb579ff3.css.map",
-    "main.7c0a1f7b.js.map": "/static/js/main.7c0a1f7b.js.map"
+    "main.674c5ccd.js.map": "/static/js/main.674c5ccd.js.map"
   },
   "entrypoints": [
     "static/css/main.bb579ff3.css",
-    "static/js/main.7c0a1f7b.js"
+    "static/js/main.674c5ccd.js"
   ]
 }
